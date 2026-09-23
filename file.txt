@@ -1,2 +1,3 @@
 Original Content
 logout feature code
+Change made directly on github - simulating team mate
